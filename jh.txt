@@ -74,6 +74,9 @@ CCTV17,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000#http://192.168.2.2
 大湾区卫视,http://192.168.2.254:5678/gudou.php?phone=13536273645&ptoken=3YfMVuJefrG1XyVpttqh3Q%3D%3D&pserialnumber=0ef026af061cd5a5&cid=1330&id=gdnanfang_1500
 广东影视,http://192.168.2.254:5678/gudou.php?phone=13536273645&ptoken=3YfMVuJefrG1XyVpttqh3Q%3D%3D&pserialnumber=0ef026af061cd5a5&cid=1330&id=gdyingshi_1500
 广东少儿,http://192.168.2.254:5678/gudou.php?phone=13536273645&ptoken=3YfMVuJefrG1XyVpttqh3Q%3D%3D&pserialnumber=0ef026af061cd5a5&cid=1330&id=gdshaoer_1500
+
+
+广东各地,#genre#
 汕头综合,http://192.168.2.254:5678/gudou.php?phone=13536273645&ptoken=3YfMVuJefrG1XyVpttqh3Q%3D%3D&pserialnumber=0ef026af061cd5a5&cid=1330&id=shantouyitaogaoqing_4500
 汕头经济生活,http://192.168.2.254:5678/gudou.php?phone=13536273645&ptoken=3YfMVuJefrG1XyVpttqh3Q%3D%3D&pserialnumber=0ef026af061cd5a5&cid=1330&id=shantouertaogaoqing_4500
 汕头文旅体育,http://192.168.2.254:5678/gudou.php?phone=13536273645&ptoken=3YfMVuJefrG1XyVpttqh3Q%3D%3D&pserialnumber=0ef026af061cd5a5&cid=1330&id=2508_4500
