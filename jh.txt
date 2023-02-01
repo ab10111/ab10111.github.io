@@ -65,18 +65,18 @@ CCTV17,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000#http://192.168.2.2
 
 广东,#genre#
 广东卫视,https://live.v1.mk/api/bestv.php?id=gdwshd8m/8000000#http://192.168.2.254:5678/sxg.php?id=gdwsH265_4000#https://live.v1.mk/aishang/gdwshd#http://baidu.live.cqccn.com/__cl/cg:live/__c/guangdongHD/__op/default/__f//index.m3u8#https://live.v1.mk/api/ghyx.php?id=GuangDongHD_6000
-深圳卫视,https://live.v1.mk/api/bestv.php?id=szwshd8m/8000000#http://192.168.2.254:5678/sxg.php?id=szwsH265_4000#https://live.v1.mk/aishang/szwshd#http://baidu.live.cqccn.com/__cl/cg:live/__c/shenzhenHD/__op/default/__f//index.m3u8#https://live.v1.mk/api/ghyx.php?id=ShenZhenHD_6000
 广东珠江,http://192.168.2.254:5678/gudou.php?phone=13536273645&ptoken=3YfMVuJefrG1XyVpttqh3Q%3D%3D&pserialnumber=0ef026af061cd5a5&cid=1330&id=gdzhujiangHD_7500
 广东体育,http://192.168.2.254:5678/gudou.php?phone=13536273645&ptoken=3YfMVuJefrG1XyVpttqh3Q%3D%3D&pserialnumber=0ef026af061cd5a5&cid=1330&id=1413
 广东经济科教,http://192.168.2.254:5678/gudou.php?phone=13536273645&ptoken=3YfMVuJefrG1XyVpttqh3Q%3D%3D&pserialnumber=0ef026af061cd5a5&cid=1330&id=GDjingjikejiaoHD_7000
 广东新闻,http://192.168.2.254:5678/gudou.php?phone=13536273645&ptoken=3YfMVuJefrG1XyVpttqh3Q%3D%3D&pserialnumber=0ef026af061cd5a5&cid=1330&id=gdnews_1500
 广东公共,http://192.168.2.254:5678/gudou.php?phone=13536273645&ptoken=3YfMVuJefrG1XyVpttqh3Q%3D%3D&pserialnumber=0ef026af061cd5a5&cid=1330&id=gdpublic_1500
-大湾区卫视,http://192.168.2.254:5678/gudou.php?phone=13536273645&ptoken=3YfMVuJefrG1XyVpttqh3Q%3D%3D&pserialnumber=0ef026af061cd5a5&cid=1330&id=gdnanfang_1500
 广东影视,http://192.168.2.254:5678/gudou.php?phone=13536273645&ptoken=3YfMVuJefrG1XyVpttqh3Q%3D%3D&pserialnumber=0ef026af061cd5a5&cid=1330&id=gdyingshi_1500
 广东少儿,http://192.168.2.254:5678/gudou.php?phone=13536273645&ptoken=3YfMVuJefrG1XyVpttqh3Q%3D%3D&pserialnumber=0ef026af061cd5a5&cid=1330&id=gdshaoer_1500
 
 
 广东各地,#genre#
+深圳卫视,https://live.v1.mk/api/bestv.php?id=szwshd8m/8000000#http://192.168.2.254:5678/sxg.php?id=szwsH265_4000#https://live.v1.mk/aishang/szwshd#http://baidu.live.cqccn.com/__cl/cg:live/__c/shenzhenHD/__op/default/__f//index.m3u8#https://live.v1.mk/api/ghyx.php?id=ShenZhenHD_6000
+大湾区卫视,http://192.168.2.254:5678/gudou.php?phone=13536273645&ptoken=3YfMVuJefrG1XyVpttqh3Q%3D%3D&pserialnumber=0ef026af061cd5a5&cid=1330&id=gdnanfang_1500
 汕头综合,http://192.168.2.254:5678/gudou.php?phone=13536273645&ptoken=3YfMVuJefrG1XyVpttqh3Q%3D%3D&pserialnumber=0ef026af061cd5a5&cid=1330&id=shantouyitaogaoqing_4500
 汕头经济生活,http://192.168.2.254:5678/gudou.php?phone=13536273645&ptoken=3YfMVuJefrG1XyVpttqh3Q%3D%3D&pserialnumber=0ef026af061cd5a5&cid=1330&id=shantouertaogaoqing_4500
 汕头文旅体育,http://192.168.2.254:5678/gudou.php?phone=13536273645&ptoken=3YfMVuJefrG1XyVpttqh3Q%3D%3D&pserialnumber=0ef026af061cd5a5&cid=1330&id=2508_4500
