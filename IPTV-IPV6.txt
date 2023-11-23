@@ -65,7 +65,7 @@ CCTV-17,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m
 
 广东,#genre#
 广东卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001032/index.m3u8#http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw2917484419_-1632335828/ott.mobaibox.com/PLTV/3/224/3221227476/index.m3u8?icpid=3&RTS=1668597711&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3#http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/ott.mobaibox.com/PLTV/4/224/3221227476/index.m3u8
-
+广东新闻,https://tcdn.itouchtv.cn/live/xwpd.m3u8?t_token=9ef02b137e65ecb4b1b85e235053f926-ps8Al4f9VFSzTFF6MsCeTxNU%2BFTBYpkPW1DkzfT0hiEiavhXMlBOf%2FyZRZayT9mksTAw%2F2Yz6zOYtnYOElSOgpNol8CXhtCxLPYV6VmjHS8%2FuYc5h35lEMcRTAHZGXGZel8Ak04fLjiL5Ym6t5G0sfPi8YVfh8Y0St14gW%2Fw1ysFBo9OCvKpjDlNil5w0emz84nqoqO3JQm%2BjxJCFWgTsUf1dtTZUAODRIK4y444vqYTUjN7S9oudQa7Q4llI%2BPdNYsox7w1KAsz1QA84m4DFoPLwoshOlY5zQVu2FOZJnfrUf0P%2BgVcsRaeYk1H6VwvA5zYNWrGFxxBmo1pQ6csAtb2sHgFXpPjqYmu639xChPoMM1nFN%2BxhHiEZvfG5g4%2F3ju%2BC3HvPM3KWY8a8foh0XoKG2%2F3gmUXbM8edTQzeQJpD8rrnLPHk9lqzEqYZjqwBEGKxFYopd5LaoqwLoZ2qg%3D%3D
 
 广东各地,#genre#
 
