@@ -74,7 +74,7 @@ CCTV17,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/22
 
 
 广东,#genre#
-广东新闻,http://116.20.33.46:4321/udp/239.77.0.173:5146#http://113.66.125.5:50001/udp/239.77.0.173:5146#http://113.87.225.31:5000/udp/239.77.0.173:5146#http://113.65.189.2:54321/udp/239.77.0.173:5146#http://183.237.246.14:9931/tsfile/live/1012_1.m3u8
+广东新闻,http://116.20.33.46:4321/udp/239.77.0.173:5146#http://183.237.246.14:9931/tsfile/live/1012_1.m3u8
 广东卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225803/1.m3u8#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001032/1.m3u8
 深圳卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001342/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225801/1.m3u8#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001342/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001030/1.m3u8
 大湾区卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
